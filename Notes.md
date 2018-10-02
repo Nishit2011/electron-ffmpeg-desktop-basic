@@ -15,4 +15,10 @@ How does Electron work?
 Electron is almost identical to Google Chrome.
 So, if we get an understanding of how Google Chrome works internally,
 we will get an idea of how Electron works.
+Electron also uses the Chromium Open Source Project which is the exact same codebase
+that chrome uses. Therefore, all the rules and convention that applies to chrome, also applies to electron as well.
+When Chrome is opened, a main wind window opens. On opening other tabs, child processes run subsequestly, each for every tab. (This is basically done for encapsulation). And Electron works similar to this.
 
+
+Who developed Electron?
+Github
