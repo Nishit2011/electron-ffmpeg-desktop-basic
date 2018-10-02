@@ -22,3 +22,10 @@ When Chrome is opened, a main wind window opens. On opening other tabs, child pr
 
 Who developed Electron?
 Github
+
+What is ffmpeg?
+It is a stand-alone command line tool which will help us to read info about the video(such as duration)
+
+What is ffmpeg-fluent?
+It helps working with ffmpeg easier from nodeJS
+Its actually a kind of wrapper
